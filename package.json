@@ -1,0 +1,22 @@
+{
+    "name": "cms-wx-spider",
+    "version": "0.0.1",
+    "desciption": "spider for weixin open public site",
+    "main": "lib/cms_wx_manager.js",
+    "directories": {
+        "lib": "./lib",
+        "bin": "./bin"
+    },
+    "author": "Ethan Zhang <unpeeled_onion@outlook.com> (http://lightthewoods.me)",
+    "license": "Apache 2.0",
+    "dependencies": {
+        "request": ">=2.69.0",
+        "xpath": ">=0.0.22",
+        "xmldom": ">=0.1.22"
+    },
+    "devDependencies": {
+        "request": ">=2.69.0",
+        "xpath": ">=0.0.22",
+        "xmldom": ">=0.1.22"
+    }
+}
