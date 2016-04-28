@@ -14,7 +14,8 @@
     "minimist": "^1.2.0",
     "request": ">=2.69.0",
     "xmldom": ">=0.1.22",
-    "xpath": ">=0.0.22"
+    "xpath": ">=0.0.22",
+    "tough-cookie-filestore": ">=0.0.1"
   },
   "devDependencies": {
     "minimist": "^1.2.0",
